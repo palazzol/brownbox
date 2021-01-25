@@ -1,0 +1,13 @@
+.title KiCad schematic
+Q1 GNDREF Net-_C1-Pad2_ Net-_Q1-Pad3_ 2N2222A
+Q2 +6V Net-_C2-Pad1_ Net-_Q2-Pad3_ 2N2907
+R1 +6V Net-_Q1-Pad3_ 2K
+R2 Net-_R2-Pad1_ Net-_C1-Pad2_ 150K
+R6 Net-_Q2-Pad3_ GNDREF 2K
+R5 Net-_C2-Pad1_ GNDREF 270K
+C1 Net-_C1-Pad1_ Net-_C1-Pad2_ 330pF
+C2 Net-_C2-Pad1_ Net-_C2-Pad2_ 330pF
+R4 Net-_Q2-Pad3_ Net-_C1-Pad1_ 2K
+R3 Net-_C2-Pad2_ Net-_Q1-Pad3_ 2K
+RV1 +6V Net-_R2-Pad1_ Net-_R2-Pad1_ 100K
+.end
