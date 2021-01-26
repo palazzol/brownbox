@@ -204,6 +204,12 @@ K switch normally-open pushbutton push-button
 F ~
 $ENDCMP
 #
+$CMP SW_Push_3PDT
+D Push button switch, generic, symbol, four pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
 $CMP SW_Push_45deg
 D Push button switch, normally open, two pins, 45° tilted
 K switch normally-open pushbutton push-button
