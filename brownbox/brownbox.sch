@@ -3293,7 +3293,7 @@ F 1 "1N270" H 11350 6726 50  0000 C CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11350 6425 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11350 6600 50  0001 C CNN
 	1    11350 6600
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Text GLabel 11100 5500 0    50   Input ~ 0
 a
