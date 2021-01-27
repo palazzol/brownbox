@@ -3867,7 +3867,7 @@ F 1 "1N270" V 20045 5620 50  0000 R CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 20000 5525 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 20000 5700 50  0001 C CNN
 	1    20000 5700
-	0    -1   1    0   
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	18800 5200 18800 5300
