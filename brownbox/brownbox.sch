@@ -6759,10 +6759,6 @@ Wire Wire Line
 	16000 10950 15900 10950
 Text GLabel 15450 10850 0    50   Input ~ 0
 S4A1
-Text GLabel 17200 10750 2    50   Input ~ 0
-S5A2
-Wire Wire Line
-	17200 10750 17100 10750
 Text GLabel 19600 10750 2    50   Input ~ 0
 S7A2
 Wire Wire Line
@@ -6791,36 +6787,14 @@ Text GLabel 12400 12700 2    50   Input ~ 0
 S9A2
 Wire Wire Line
 	12400 12700 12300 12700
-Text GLabel 13600 12700 2    50   Input ~ 0
-S10A2
-Wire Wire Line
-	13600 12700 13500 12700
-Text GLabel 13600 12900 2    50   Input ~ 0
-S10A3
-Wire Wire Line
-	13600 12900 13500 12900
-Text GLabel 13050 12800 0    50   Input ~ 0
-S10A1
-Wire Wire Line
-	13050 12800 13100 12800
-Wire Wire Line
-	14800 12700 14700 12700
 Text GLabel 14800 12900 2    50   Input ~ 0
 S11A3
 Wire Wire Line
 	14800 12900 14700 12900
-Text GLabel 16000 12700 2    50   Input ~ 0
-S12A2
-Wire Wire Line
-	16000 12700 15900 12700
 Text GLabel 16000 12900 2    50   Input ~ 0
 S12A3
 Wire Wire Line
 	16000 12900 15900 12900
-Text GLabel 15450 12800 0    50   Input ~ 0
-S12A1
-Wire Wire Line
-	15450 12800 15500 12800
 Text GLabel 19600 12700 2    50   Input ~ 0
 S15A2
 Wire Wire Line
@@ -7414,7 +7388,7 @@ Connection ~ 20750 10950
 Wire Wire Line
 	20750 10950 20700 10950
 Text GLabel 20800 11750 2    50   Input ~ 0
-S8B3
+S8C3
 Wire Wire Line
 	20800 11750 20700 11750
 $Comp
@@ -7572,13 +7546,13 @@ Wire Wire Line
 Text GLabel 20800 13300 2    50   Input ~ 0
 S16B3
 Text GLabel 20250 13200 0    50   Input ~ 0
-S16A1
+S16B1
 Wire Wire Line
 	20250 13200 20300 13200
 Wire Wire Line
 	20800 13300 20700 13300
 Text GLabel 20800 13100 2    50   Input ~ 0
-S16A2
+S16B2
 Wire Wire Line
 	20800 13100 20700 13100
 $Comp
@@ -7923,4 +7897,25 @@ F 3 "~" H 7250 15600 50  0001 C CNN
 	1    7250 15600
 	-1   0    0    1   
 $EndComp
+$Comp
+L power:VCC #PWR0204
+U 1 1 60BBF6BF
+P 15200 12750
+F 0 "#PWR0204" H 15200 12600 50  0001 C CNN
+F 1 "VCC" H 15215 12923 50  0000 C CNN
+F 2 "" H 15200 12750 50  0001 C CNN
+F 3 "" H 15200 12750 50  0001 C CNN
+	1    15200 12750
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	15200 12750 15200 12800
+Wire Wire Line
+	15200 12800 15500 12800
+Wire Wire Line
+	19600 13500 19500 13500
+Wire Wire Line
+	19600 13100 19500 13100
+Wire Wire Line
+	19600 13900 19500 13900
 $EndSCHEMATC
