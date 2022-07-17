@@ -1,9 +1,0 @@
-(sym_lib_table
-  (lib (name Transistor_BJT)(type Legacy)(uri ${KIPRJMOD}/Transistor_BJT.lib)(options "")(descr ""))
-  (lib (name power)(type Legacy)(uri ${KIPRJMOD}/power.lib)(options "")(descr ""))
-  (lib (name Diode)(type Legacy)(uri ${KIPRJMOD}/Diode.lib)(options "")(descr ""))
-  (lib (name Triac_Thyristor)(type Legacy)(uri ${KIPRJMOD}/Triac_Thyristor.lib)(options "")(descr ""))
-  (lib (name Connector)(type Legacy)(uri ${KIPRJMOD}/Connector.lib)(options "")(descr ""))
-  (lib (name Connector_Generic)(type Legacy)(uri ${KIPRJMOD}/Connector_Generic.lib)(options "")(descr ""))
-  (lib (name Switch)(type Legacy)(uri ${KIPRJMOD}/Switch.lib)(options "")(descr ""))
-)
