@@ -1569,7 +1569,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 1e5a4a4f-7ec1-4d5e-aab0-77eebafcd5cd)
-    (at 27.94 44.45 90)
+    (at 17.145 24.765 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -2123,7 +2123,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 25b9b6d4-722b-4fc2-8315-c355f287841f)
-    (at 27.94 78.74 90)
+    (at 17.145 59.055 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -2581,7 +2581,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 2c888038-917e-41df-b5eb-b211b97604f8)
-    (at 64.135 48.895 -90)
+    (at 53.34 29.21 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -2925,7 +2925,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp 2f0570b6-86da-47a8-9e56-ce60c431c534)
-    (at 57.11 38.735 180)
+    (at 46.315 19.05 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -7152,7 +7152,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 6f2a61dd-5d58-4f9a-947c-9eede02ebaf9)
-    (at 34.29 80.01 -90)
+    (at 23.495 60.325 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -7200,7 +7200,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 6f5f0c33-b595-427a-8f2d-635a21b1d521)
-    (at 52.705 53.975 180)
+    (at 41.91 34.29 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -8599,7 +8599,7 @@
 
   (footprint "Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical" (layer "F.Cu")
     (tedit 5A3D4994) (tstamp 7ea7cc4a-9f54-4274-8035-370397e0f165)
-    (at 34.335 71.135 90)
+    (at 23.54 51.45 90)
     (descr "Potentiometer, vertical, Bourns 3266W, https://www.bourns.com/docs/Product-Datasheets/3266.pdf")
     (tags "Potentiometer vertical Bourns 3266W")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -10132,7 +10132,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 983c6f9b-ab5a-42af-bd5a-759d76f91388)
-    (at 34.29 45.72 -90)
+    (at 23.495 26.035 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -10334,7 +10334,7 @@
 
   (footprint "Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical" (layer "F.Cu")
     (tedit 5A3D4994) (tstamp 9e885b90-070c-44ee-a862-66cb7a82bcb6)
-    (at 34.335 36.845 90)
+    (at 23.54 17.16 90)
     (descr "Potentiometer, vertical, Bourns 3266W, https://www.bourns.com/docs/Product-Datasheets/3266.pdf")
     (tags "Potentiometer vertical Bourns 3266W")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -10385,7 +10385,7 @@
 
   (footprint "footprints:TO-92_Offset_TO-106" (layer "F.Cu")
     (tedit 62DDBF2F) (tstamp 9f0d3469-bad0-4554-bd2d-fa8f3ee34b83)
-    (at 64.135 71.755 -90)
+    (at 53.34 52.07 -90)
     (descr "TO-92 leads compatable with TO-106, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -11461,7 +11461,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp bb5d2eae-a96e-45dd-89aa-125fe22cc2fa)
-    (at 57.745 73.025 180)
+    (at 46.95 53.34 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -12037,7 +12037,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp c28b7c81-22dc-402b-9254-51430890607f)
-    (at 57.785 80.645 -90)
+    (at 46.99 60.96 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -12459,7 +12459,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp c9fd8097-4fd2-4bf4-ae2b-c6dd4fdd0ad6)
-    (at 52.705 88.265 180)
+    (at 41.91 68.58 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -12617,7 +12617,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp cb6ca4a6-d548-496b-82da-ad3ca44106a9)
-    (at 52.07 44.45 180)
+    (at 41.275 24.765 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -12761,7 +12761,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp cc28128d-dda5-4a0d-848a-18ff95d24656)
-    (at 57.15 48.895 -90)
+    (at 46.355 29.21 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -12853,7 +12853,7 @@
 
   (footprint "footprints:TO-92_Offset_TO-106" (layer "F.Cu")
     (tedit 62DDBF2F) (tstamp cca20c0e-4dd8-43e2-8d36-77b8f7eb2b62)
-    (at 27.94 89.535 90)
+    (at 17.145 69.85 90)
     (descr "TO-92 leads compatable with TO-106, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -12897,7 +12897,7 @@
 
   (footprint "footprints:TO-92_Offset_TO-106" (layer "F.Cu")
     (tedit 62DDBF2F) (tstamp cd0e1ec8-5612-4244-a876-838286424de9)
-    (at 27.94 55.245 90)
+    (at 17.145 35.56 90)
     (descr "TO-92 leads compatable with TO-106, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -14149,7 +14149,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp e04b8c10-725b-4bde-8cbf-66bfea5053e6)
-    (at 37.505 88.265)
+    (at 26.71 68.58)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -14381,7 +14381,7 @@
 
   (footprint "footprints:TO-92_Offset_TO-106" (layer "F.Cu")
     (tedit 62DDBF2F) (tstamp e470444a-0d39-4cb6-a5a1-718b2c3125b7)
-    (at 63.775 37.465 -90)
+    (at 52.98 17.78 -90)
     (descr "TO-92 leads compatable with TO-106, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -14785,7 +14785,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp ee8bc577-8a80-4c3d-a67d-e6eec779095a)
-    (at 64.77 80.645 -90)
+    (at 53.975 60.96 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -15691,7 +15691,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp fb0b1440-18be-4b5f-b469-b4cfaf66fc53)
-    (at 37.465 53.975)
+    (at 26.67 34.29)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -15973,7 +15973,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp ff1f874f-92dd-4417-98ba-01533012ca7a)
-    (at 52.705 78.74 180)
+    (at 41.91 59.055 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "brownbox.kicad_sch")
@@ -16019,10 +16019,10 @@
     )
   )
 
-  (gr_text "Horiz. Sync Multivibrator" (at 45.085 33.655) (layer "F.SilkS") (tstamp 3e71bf01-2256-4813-9fa5-ba888b7220a3)
+  (gr_text "Horiz. Sync Multivibrator" (at 34.29 13.97) (layer "F.SilkS") (tstamp 3e71bf01-2256-4813-9fa5-ba888b7220a3)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Vert. Sync Multivibrator" (at 45.085 67.945) (layer "F.SilkS") (tstamp 525398b3-6195-4594-b4a7-adc99f778ce5)
+  (gr_text "Vert. Sync Multivibrator" (at 34.29 48.26) (layer "F.SilkS") (tstamp 525398b3-6195-4594-b4a7-adc99f778ce5)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
