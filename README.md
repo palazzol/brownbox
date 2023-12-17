@@ -13,6 +13,6 @@ The current KiCAD schematic and PCB layout is based on this original schematic, 
 
 https://raw.githubusercontent.com/palazzol/brownbox/master/original_schems/NMAH-AC0854-0000802.jpg
 
-### The KiCAD schematic is mostly complete!
+### The KiCAD schematic is complete!
 
-### The KiCAD PCB is just getting started
+### The initial KiCAD PCB is finally done!
